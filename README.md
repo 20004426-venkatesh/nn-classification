@@ -28,8 +28,8 @@ Train the data and then predict using Tensorflow
 ## PROGRAM
 
 ```python3
-# Developed By : Eluru Ganesh
-# Register Number : 212220230016
+# Developed By : ganapathi venkatesh
+# Register Number : 212220230018
 
 
 
