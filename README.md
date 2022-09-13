@@ -193,9 +193,9 @@ print(le.inverse_transform(x_single_prediction))
 
 ```
 
-## Dataset Information
 
-Include screenshot of the dataset
+
+
 
 ## OUTPUT
 
